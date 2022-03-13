@@ -1,2 +1,2 @@
 # Curriculo
- Curriculo criado para praticar consitos de HTML semantico e CSS
+ Curriculo criado para praticar conseitos de HTML semantico e CSS
