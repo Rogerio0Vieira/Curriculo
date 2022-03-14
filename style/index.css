@@ -14,19 +14,20 @@ button {
   font-weight: 400;
 }
 
-.foto-perfil {
-  border-radius: 100%;
-  width: 35%;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-top: 10px;
-}
 
 .container-header {
   background: linear-gradient(0, #140c6b, #000000);
   backdrop-filter: hue-rotate(120deg);
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+}
+
+.foto-perfil {
+  border-radius: 100%;
+  width: 35%;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 
 .container-name-titulo{
